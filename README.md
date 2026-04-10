@@ -4,6 +4,10 @@
 This project is a desktop application built using **Python (PyQt)** integrated with **OpenModelica** to simulate and visualize the behavior of two interconnected tanks system. It allows users to run simulations, adjust parameters, and observe system dynamics in real time.
 
 ---
+## Demo
+https://github.com/user-attachments/assets/0a7a9ed5-f194-45cb-873b-77efb86de494
+
+---
 
 ## Features
 - Graphical User Interface built with PyQt
@@ -35,9 +39,7 @@ Ensure you have the following installed:
 ---
 ## Project Structure
 
-## Project Structure
-
-OPENMODELICA-PYQT-DESKTOP-APP/
+### OPENMODELICA-PYQT-DESKTOP-APP/
 
 - `main.py`  
   - Entry point of the application  
